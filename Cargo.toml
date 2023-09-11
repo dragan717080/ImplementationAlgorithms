@@ -1,0 +1,199 @@
+[package]
+name = "algorithms"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+unicode-segmentation = "1.8.0"
+serde = { version = "1.0.183", features = ["derive"] }
+serde_json = "1.0.104"
+rand = "0.8"
+once_cell = "1.5"
+chrono = { version = "0.4", features = ["serde"] }
+humantime = "2.1"
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+num-bigint = "0.4"
+num-traits = "0.2"
+indexmap = "1.6"
+rsa = "0.4.1"
+itertools = "0.10"
+regex = "1.5"
+
+[[bin]]
+name = "gcd"
+path = "src/gcd.rs"
+
+[[bin]]
+name = "comparing_the_triplets"
+path = "src/comparing_the_triplets.rs"
+
+[[bin]]
+name = "drawing_book"
+path = "src/drawing_book.rs"
+
+[[bin]]
+name = "solve_me_first"
+path = "src/warmup/solve_me_first.rs"
+
+[[bin]]
+name = "compare_triplets"
+path = "src/warmup/compare_triplets.rs"
+
+[[bin]]
+name = "very_big_sum"
+path = "src/warmup/very_big_sum.rs"
+
+[[bin]]
+name = "diagonal_difference"
+path = "src/warmup/diagonal_difference.rs"
+
+[[bin]]
+name = "plus_minus"
+path = "src/warmup/plus_minus.rs"
+
+[[bin]]
+name = "staircase"
+path = "src/warmup/staircase.rs"
+
+[[bin]]
+name = "mini_max_sum"
+path = "src/warmup/mini_max_sum.rs"
+
+[[bin]]
+name = "time_conversion"
+path = "src/warmup/time_conversion.rs"
+
+[[bin]]
+name = "array_sum"
+path = "src/warmup/array_sum.rs"
+
+[[bin]]
+name = "cake"
+path = "src/warmup/cake.rs"
+
+[[bin]]
+name = "grading_students"
+path = "src/implementation/grading_students.rs"
+
+[[bin]]
+name = "apple_and_orange"
+path = "src/implementation/apple_and_orange.rs"
+
+[[bin]]
+name = "between_two_sets"
+path = "src/implementation/between_two_sets.rs"
+
+[[bin]]
+name = "breaking_records"
+path = "src/implementation/breaking_records.rs"
+
+[[bin]]
+name = "bar"
+path = "src/implementation/bar.rs"
+
+[[bin]]
+name = "divisible_sum_pairs"
+path = "src/implementation/divisible_sum_pairs.rs"
+
+[[bin]]
+name = "migratory_birds"
+path = "src/implementation/migratory_birds.rs"
+
+[[bin]]
+name = "modified_kaprekars"
+path = "src/implementation/modified_kaprekars.rs"
+
+[[bin]]
+name = "circular_array_rotation"
+path = "src/implementation/circular_array_rotation.rs"
+
+[[bin]]
+name = "sequence_equation"
+path = "src/implementation/sequence_equation.rs"
+
+[[bin]]
+name = "jumping_on_clouds"
+path = "src/implementation/jumping_on_clouds.rs"
+
+[[bin]]
+name = "find_digits"
+path = "src/implementation/find_digits.rs"
+
+[[bin]]
+name = "manasa"
+path = "src/implementation/manasa.rs"
+
+[[bin]]
+name = "grid_search"
+path = "src/implementation/grid_search.rs"
+
+[[bin]]
+name = "happy_ladybugs"
+path = "src/implementation/happy_ladybugs.rs"
+
+[[bin]]
+name = "viral_advertising"
+path = "src/implementation/viral_advertising.rs"
+
+[[bin]]
+name = "strange_counter"
+path = "src/implementation/strange_counter.rs"
+
+[[bin]]
+name = "electronics_shop"
+path = "src/implementation/electronics_shop.rs"
+
+[[bin]]
+name = "cats_and_mouse"
+path = "src/implementation/cats_and_mouse.rs"
+
+[[bin]]
+name = "hurdle_race"
+path = "src/implementation/hurdle_race.rs"
+
+[[bin]]
+name = "designer_pdf_viewer"
+path = "src/implementation/designer_pdf_viewer.rs"
+
+[[bin]]
+name = "sherlock_squares"
+path = "src/implementation/sherlock_squares.rs"
+
+[[bin]]
+name = "library_fine"
+path = "src/implementation/library_fine.rs"
+
+[[bin]]
+name = "acm_icpc"
+path = "src/implementation/acm_icpc.rs"
+
+[[bin]]
+name = "service_lane"
+path = "src/implementation/service_lane.rs"
+
+[[bin]]
+name = "counting_valleys"
+path = "src/implementation/counting_valleys.rs"
+
+[[bin]]
+name = "picking_numbers"
+path = "src/implementation/picking_numbers.rs"
+
+[[bin]]
+name = "repeated_string"
+path = "src/implementation/repeated_string.rs"
+
+[[bin]]
+name = "day_of_programmer"
+path = "src/implementation/day_of_programmer.rs"
+
+[[bin]]
+name = "flatland_space_stations"
+path = "src/implementation/flatland_space_stations.rs"
+
+[[bin]]
+name = "fair_rations"
+path = "src/implementation/fair_rations.rs"
