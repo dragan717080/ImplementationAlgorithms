@@ -13,12 +13,12 @@ fn find_count(t: i64) -> i64 {
         return 4 - t;
     }
 
-    let [mut lower, mut upper, mut k] = [3, 3, 1];
+    let [mut _lower, mut upper, mut k] = [3, 3, 1];
 
     while upper < t {
         upper += 6*k;
         if t > upper {
-            lower += 6*k;
+            _lower += 6*k;
         }
         k *= 2;
     }

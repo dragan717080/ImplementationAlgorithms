@@ -40,7 +40,6 @@ fn find_topics(matrix: Vec<Vec<u32>>) -> [u32; 2] {
 
     for i in 0..matrix.len() - 1 {
         for j in (i + 1)..matrix.len() {
-            let total_between_teams: u32 = 0;
             let topics: Vec<Vec<u32>> = transpose(vec![matrix[i].clone(), matrix[j].clone()]);
 
             let sum_for_two_teams: usize = topics

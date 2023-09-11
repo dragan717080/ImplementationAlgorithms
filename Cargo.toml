@@ -23,18 +23,6 @@ itertools = "0.10"
 regex = "1.5"
 
 [[bin]]
-name = "gcd"
-path = "src/gcd.rs"
-
-[[bin]]
-name = "comparing_the_triplets"
-path = "src/comparing_the_triplets.rs"
-
-[[bin]]
-name = "drawing_book"
-path = "src/drawing_book.rs"
-
-[[bin]]
 name = "solve_me_first"
 path = "src/warmup/solve_me_first.rs"
 
@@ -197,3 +185,23 @@ path = "src/implementation/flatland_space_stations.rs"
 [[bin]]
 name = "fair_rations"
 path = "src/implementation/fair_rations.rs"
+
+[[bin]]
+name = "save_prisoner"
+path = "src/implementation/save_prisoner.rs"
+
+[[bin]]
+name = "bill_division"
+path = "src/implementation/bill_division.rs"
+
+[[bin]]
+name = "sales_by_match"
+path = "src/implementation/sales_by_match.rs"
+
+[[bin]]
+name = "drawing_book"
+path = "src/implementation/drawing_book.rs"
+
+[[bin]]
+name = "append_and_delete"
+path = "src/implementation/append_and_delete.rs"

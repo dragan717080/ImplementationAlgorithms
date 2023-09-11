@@ -58,3 +58,13 @@
 
 <a href = "https://www.hackerrank.com/challenges/fair-rations/problem">Fair Rations</a>
 
+<a href = "https://www.hackerrank.com/challenges/save-the-prisoner/problem">Save the Prisoner!</a>
+
+<a href = "https://www.hackerrank.com/challenges/bon-appetit/problem">Bill Division</a>
+
+<a href = "https://www.hackerrank.com/challenges/sock-merchant/problem">Sales by Match</a>
+
+<a href = "https://www.hackerrank.com/challenges/drawing-book/problem">Drawing Book</a>
+
+<a href = "https://www.hackerrank.com/challenges/append-and-delete/problem">Append and Delete</a>
+
