@@ -21,7 +21,6 @@ indexmap = "1.6"
 rsa = "0.4.1"
 itertools = "0.10"
 regex = "1.5"
-
 [[bin]]
 name = "solve_me_first"
 path = "src/warmup/solve_me_first.rs"
@@ -205,3 +204,87 @@ path = "src/implementation/drawing_book.rs"
 [[bin]]
 name = "append_and_delete"
 path = "src/implementation/append_and_delete.rs"
+
+[[bin]]
+name = "taum"
+path = "src/implementation/taum.rs"
+
+[[bin]]
+name = "halloween_sale"
+path = "src/implementation/halloween_sale.rs"
+
+[[bin]]
+name = "minimum_distances"
+path = "src/implementation/minimum_distances.rs"
+
+[[bin]]
+name = "number_line_jumps"
+path = "src/implementation/number_line_jumps.rs"
+
+[[bin]]
+name = "angry"
+path = "src/implementation/angry.rs"
+
+[[bin]]
+name = "cut_sticks"
+path = "src/implementation/cut_sticks.rs"
+
+[[bin]]
+name = "equalize_array"
+path = "src/implementation/equalize_array.rs"
+
+[[bin]]
+name = "lisa_workbook"
+path = "src/implementation/lisa_workbook.rs"
+
+[[bin]]
+name = "beautiful_triplets"
+path = "src/implementation/beautiful_triplets.rs"
+
+[[bin]]
+name = "chocolate_feast"
+path = "src/implementation/chocolate_feast.rs"
+
+[[bin]]
+name = "cavity_map"
+path = "src/implementation/cavity_map.rs"
+
+[[bin]]
+name = "jumping_on_clouds_revisited"
+path = "src/implementation/jumping_on_clouds_revisited.rs"
+
+[[bin]]
+name = "beautiful_days_at_movies"
+path = "src/implementation/beautiful_days_at_movies.rs"
+
+[[bin]]
+name = "utopian_tree"
+path = "src/implementation/utopian_tree.rs"
+
+[[bin]]
+name = "extra_long_facto"
+path = "src/implementation/extra_long_facto.rs"
+
+[[bin]]
+name = "non_divisible_subset"
+path = "src/implementation/non_divisible_subset.rs"
+
+[[bin]]
+name = "larry"
+path = "src/implementation/larry.rs"
+
+[[bin]]
+name = "encryption"
+path = "src/implementation/encryption.rs"
+
+[[bin]]
+name = "absolute_permutation"
+path = "src/implementation/absolute_permutation.rs"
+
+[[bin]]
+name = "ema_supercomputer"
+path = "src/implementation/ema_supercomputer.rs"
+
+[[bin]]
+name = "almost_sorted"
+path = "src/implementation/almost_sorted.rs"

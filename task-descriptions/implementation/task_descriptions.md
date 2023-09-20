@@ -24,8 +24,6 @@
 
 <a href = "https://www.hackerrank.com/challenges/manasa-and-stones/problem">Manasa and Stones<a>
 
-<a href = "https://www.hackerrank.com/challenges/the-grid-search/problem">The Grid Search</a>
-
 <a href = "https://www.hackerrank.com/challenges/happy-ladybugs/problem">Happy Ladybugs</a>
 
 <a href = "https://www.hackerrank.com/challenges/strange-advertising/problem">Viral Advertising</a>
@@ -67,4 +65,50 @@
 <a href = "https://www.hackerrank.com/challenges/drawing-book/problem">Drawing Book</a>
 
 <a href = "https://www.hackerrank.com/challenges/append-and-delete/problem">Append and Delete</a>
+
+<a href = "https://www.hackerrank.com/challenges/taum-and-bday/problem">Taum and B'day</a>
+
+<a href = "https://www.hackerrank.com/challenges/halloween-sale/problem">Halloween Sale</a>
+
+<a href = "https://www.hackerrank.com/challenges/minimum-distances/problem">Minimum distances</a>
+
+<a href = "https://www.hackerrank.com/challenges/kangaroo/problem">Number Line Jumps</a>
+
+<a href = "https://www.hackerrank.com/challenges/angry-professor/problem">Angry Professor</a>
+
+<a href = "https://www.hackerrank.com/challenges/cut-the-sticks/problem">Cut the Sticks</a>
+
+<a href = "https://www.hackerrank.com/challenges/equality-in-a-array/problem">Equalize the Array</a>
+
+<a href = "https://www.hackerrank.com/challenges/lisa-workbook/problem">Lisa's Workbook</a>
+
+<a href = "https://www.hackerrank.com/challenges/beautiful-triplets/problem">Beautiful Triplets</a>
+
+<a href = "https://www.hackerrank.com/challenges/chocolate-feast/problem">Chocolate Feast</a>
+
+<a href = "https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>
+
+<a href = "https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem">Jumping on Clouds: Revisited</a>
+
+<a href = "https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem">Beautiful Days at the Movies</a>
+
+<a href = "https://www.hackerrank.com/challenges/utopian-tree/problem">Utopian Tree</a>
+
+Medium
+
+<a href = "https://www.hackerrank.com/challenges/the-grid-search/problem">The Grid Search</a>
+
+<a href = "https://www.hackerrank.com/challenges/extra-long-factorials/problem">Extra Long Facto</a>
+
+<a href = "https://www.hackerrank.com/challenges/non-divisible-subset/problem">Non-divisible subset</a>
+
+<a href = "https://www.hackerrank.com/challenges/larrys-array/problem">Larry's Array</a>
+
+<a href = "https://www.hackerrank.com/challenges/encryption/problem">Encryption</a>
+
+<a href = "https://www.hackerrank.com/challenges/absolute-permutation/problem">Absolute Permutation</a>
+
+<a href = "https://www.hackerrank.com/challenges/two-pluses/problem">Ema's Supercomputer</a>
+
+<a href = "https://www.hackerrank.com/challenges/almost-sorted/problem">Almost Sorted</a>
 
