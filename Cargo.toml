@@ -288,3 +288,39 @@ path = "src/implementation/ema_supercomputer.rs"
 [[bin]]
 name = "almost_sorted"
 path = "src/implementation/almost_sorted.rs"
+
+[[bin]]
+name = "bigger_is_greater"
+path = "src/implementation/bigger_is_greater.rs"
+
+[[bin]]
+name = "containers_of_balls"
+path = "src/implementation/containers_of_balls.rs"
+
+[[bin]]
+name = "time_in_words"
+path = "src/implementation/time_in_words.rs"
+
+[[bin]]
+name = "surface_area"
+path = "src/implementation/surface_area.rs"
+
+[[bin]]
+name = "bomberman"
+path = "src/implementation/bomberman.rs"
+
+[[bin]]
+name = "magic_square"
+path = "src/implementation/magic_square.rs"
+
+[[bin]]
+name = "queen_attack_2"
+path = "src/implementation/queen_attack_2.rs"
+
+[[bin]]
+name = "climbing_the_leaderboard"
+path = "src/implementation/climbing_the_leaderboard.rs"
+
+[[bin]]
+name = "matrix_rotation"
+path = "src/implementation/matrix_rotation.rs"

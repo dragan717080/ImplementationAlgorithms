@@ -112,3 +112,23 @@ Medium
 
 <a href = "https://www.hackerrank.com/challenges/almost-sorted/problem">Almost Sorted</a>
 
+<a href = "https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater</a>
+
+<a href = "https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem">Containers of Balls</a>
+
+<a href = "https://www.hackerrank.com/challenges/the-time-in-words/problem">Time in Words</a>
+
+<a href = "https://www.hackerrank.com/challenges/3d-surface-area/problem">3D Surface Area</a>
+
+<a href = "https://www.hackerrank.com/challenges/bomber-man/problem">The Bomberman Game</a>
+
+<a href = "https://www.hackerrank.com/challenges/magic-square-forming/problem">Magic Square</a>
+
+<a href = "https://www.hackerrank.com/challenges/queens-attack-2/problem">Queen's Attack II</a>
+
+<a href = "https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem">Climbling the Leaderboard</a>
+
+Hard
+
+<a href = "https://www.hackerrank.com/challenges/matrix-rotation-algo/problem">Matrix Rotation</a>
+
